@@ -58,7 +58,7 @@ pytest
 ```
 
 ## ライセンス
-Apache License 2.0
+本プロジェクトは [Apache License 2.0](./LICENSE) の下で公開されています。
 
 ## 貢献
 バグ報告や機能リクエストは、GitHubのIssueを通じて行ってください。プルリクエストも歓迎します。
